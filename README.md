@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**victorezende11/victorezende11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Sou o Victor 🌽
 
-Here are some ideas to get you started:
+Melhorista de milho na Primaiz Sementes (Uberlândia, MG). Engenheiro agrônomo (UFV)
+e mestre em Plant Genetics, Genomics and Breeding (IAMZ, Espanha).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui publico meus estudos e projetos de **dados aplicados ao melhoramento de plantas**:
+análise de ensaios multiambientes, modelos mistos, SQL e programação em R e Python.
+
+**Em andamento:** SQL · Git · Databricks · Python
+
+---
+
+Maize breeder working at the intersection of **plant breeding and data science**:
+multi-environment trial analysis, mixed models, SQL, R and Python.
+
+📫 [LinkedIn](https://www.linkedin.com/in/victorezende1996)
