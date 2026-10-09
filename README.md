@@ -15,3 +15,6 @@ Maize breeder working at the intersection of **plant breeding and data science**
 multi-environment trial analysis, mixed models, SQL, R and Python.
 
 📫 [LinkedIn](https://www.linkedin.com/in/victorezende1996)
+
+**Projetos**
+- [sql-ensaio-milho](https://github.com/victorezende11/sql-ensaio-milho): consultas SQL para análise de ensaios de milho
